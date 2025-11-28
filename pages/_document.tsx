@@ -4,8 +4,8 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <title>Mina a une Idée</title>
-        <meta name="description" content="Une IA pour concevoir des idées de business." />
+        <title>Healthcare Consultation Assistant</title>
+        <meta name="description" content="AI-powered medical consultation summaries" />
       </Head>
       <body>
         <Main />
